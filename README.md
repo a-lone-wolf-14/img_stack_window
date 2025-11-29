@@ -1,6 +1,5 @@
-**Recommended:** Run in PyCharm
+Inserts the images in form of 2D array in a seperate window.
 
-Insert the images in the array on form of a table.
+Corect stack syntax-[img,img,img],[img,img,img]
 
-Corect-[img,img,img],[img,img,img]
-Wromg-[img,img],[img]   #the second place of second row will be empty
+Wrong stack syntax-[img,img],[img]   #the second place of second row will be empty
